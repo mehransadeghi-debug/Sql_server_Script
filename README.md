@@ -1,2 +1,25 @@
 # Sql_server_Script
 Date &amp; Time Formatting using CONVERT IN SQL SERVER
+You can also use some built-in codes to convert into a specific format. Here are the options built into SQL Server:
+@convert_code Result
+100 "Jul 21 2016 7:56AM"
+101 "07/21/2016"
+102 "2016.07.21"
+103 "21/07/2016"
+104 "21.07.2016"
+105 "21-07-2016"
+106 "21 Jul 2016"
+107 "Jul 21, 2016"
+108 "07:57:05"
+109 "Jul 21 2016 7:57:45:707AM"
+110 "07-21-2016"
+111 "2016/07/21"
+112 "20160721"
+113 "21 Jul 2016 07:57:59:553"
+114 "07:57:59:553"
+120 "2016-07-21 07:57:59"
+121 "2016-07-21 07:57:59.553"
+126 "2016-07-21T07:58:34.340"
+127 "2016-07-21T07:58:34.340"
+130 "16 ???? 1437 7:58:34:340AM"
+131 "16/10/1437 7:58:34:340AM"
